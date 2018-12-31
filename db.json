@@ -1,0 +1,102 @@
+{
+  "admin": [
+    {
+      "id": 1,
+      "useradmin": "admin",
+      "password": "1",
+      "email": "bunting@ngesot.com",
+      "phone": "08918191819"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "user",
+      "password": "1",
+      "email": "bunting@ngesot.com",
+      "phone": "08918191819"
+    },
+    {
+      "username": "baron",
+      "email": "emailku",
+      "password": "1",
+      "phone": "no hp ku",
+      "id": 2
+    }
+  ],
+  "popok": [
+    {
+      "nama": "Honda",
+      "merk": "Bronson",
+      "harga": 50000,
+      "img": "https://i.pinimg.com/originals/65/28/a3/6528a3845f7267664c29ed557ab8a9dd.jpg",
+      "description": "Honda paling top",
+      "id": 1
+    },
+    {
+      "nama": "Yamaha",
+      "merk": "Bronson",
+      "harga": 65000,
+      "img": "https://i.pinimg.com/originals/65/28/a3/6528a3845f7267664c29ed557ab8a9dd.jpg",
+      "description": "Yamaha selalu didepan",
+      "id": 2
+    },
+    {
+      "nama": "PurwaDhika",
+      "merk": "Uchiha",
+      "harga": 100000,
+      "img": "https://pbs.twimg.com/media/Cl4ta3gUgAI1KRi.jpg",
+      "description": "Startup coding school",
+      "id": 3
+    },
+    {
+      "nama": "Job Conector",
+      "merk": "Bronson",
+      "harga": 75000,
+      "img": "https://pbs.twimg.com/media/Cl4ta3gUgAI1KRi.jpg",
+      "description": "Job untuk dihubungkan",
+      "id": 4
+    },
+    {
+      "nama": "Data Science",
+      "merk": "Bronson",
+      "harga": 30000,
+      "img": "https://pbs.twimg.com/media/Cl4ta3gUgAI1KRi.jpg",
+      "description": "Data analis perusahaan",
+      "id": 5
+    },
+    {
+      "nama": "UI / UX",
+      "merk": "Bronson",
+      "harga": 15000,
+      "img": "https://pbs.twimg.com/media/Cl4ta3gUgAI1KRi.jpg",
+      "description": "Tampilan keren",
+      "id": 6
+    },
+    {
+      "nama": "Hipster",
+      "merk": "Bronson",
+      "harga": 45000,
+      "img": "https://pbs.twimg.com/media/Cl4ta3gUgAI1KRi.jpg",
+      "description": "Apa itu hipster",
+      "id": 7
+    },
+    {
+      "nama": "Hustler",
+      "merk": "Bronson",
+      "harga": 5000,
+      "img": "https://pbs.twimg.com/media/Cl4ta3gUgAI1KRi.jpg",
+      "description": "Apa itu hustler",
+      "id": 8
+    },
+    {
+      "nama": "Hacker",
+      "merk": "Uchiha",
+      "harga": 1250,
+      "img": "https://pbs.twimg.com/media/Cl4ta3gUgAI1KRi.jpg",
+      "description": "Apa itu hacker",
+      "id": 9
+    }
+  ],
+  "orders": []
+}
